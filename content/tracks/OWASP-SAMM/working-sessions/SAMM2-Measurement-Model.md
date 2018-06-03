@@ -1,13 +1,13 @@
 ---
 title        : SAMMv2 Measurement Model
 type         : working-session
-track        : Maturity Models
+track        : OWASP SAMM
 locked       : true
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     : Tue
-when_time    : PM-3
+when_day     : Wed
+when_time    : PM-2
 room_layout  :                    #
 room_id      : Villa-4
 session_slack: https://os-summit.slack.com/messages/CAWA8AEMC
